@@ -39,9 +39,11 @@ function handlerOpenModal(e) {
 </div>
 `);
   modal.show();
+
+  // if ()
 }
 
-onClose: (instance) => {
-  console.log(object);
-};
+// onClose: (instance) => {
+//   console.log(object);
+// };
 // console.log(galleryItems);
